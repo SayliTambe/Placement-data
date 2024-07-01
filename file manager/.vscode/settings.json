@@ -1,0 +1,24 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Sayli Tambe\\OneDrive\\Desktop\\jar.jar",
+            "c:\\Users\\Sayli Tambe\\OneDrive\\Desktop\\Workbook.jar",
+            "c:\\Users\\Sayli Tambe\\OneDrive\\Desktop\\Shape.jar",
+            "c:\\Users\\Sayli Tambe\\OneDrive\\Desktop\\Row.jar",
+            "c:\\Users\\Sayli Tambe\\OneDrive\\Desktop\\Sheet.jar",
+            "c:\\Users\\Sayli Tambe\\OneDrive\\Desktop\\Cell.jar"
+        ],
+        "exclude": [
+            "lib/Workbook.jar",
+            "lib/Sheet.jar",
+            "lib/Shape.jar",
+            "lib/Row.jar",
+            "c:\\Users\\Sayli Tambe\\OneDrive\\Desktop\\Cell.jar",
+            "lib/Cell.jar",
+            "lib/Color.jar"
+        ]
+    }
+}
